@@ -1,0 +1,5 @@
+colors'8'
+drballpath'0'
+famehallpath'famehall.txt'
+resx'1024'
+resy'768'
